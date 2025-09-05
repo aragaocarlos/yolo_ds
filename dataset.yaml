@@ -1,0 +1,7 @@
+train: C:/Users/luiz1/BottleDataset/train/images
+val: C:/Users/luiz1/BottleDataset/valid/images
+test: C:/Users/luiz1/BottleDataset/test/images
+
+nc: 1
+names: ['garrafa']
+
